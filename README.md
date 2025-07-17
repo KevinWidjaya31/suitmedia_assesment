@@ -1,16 +1,25 @@
-# suitmedia_test
+🚀 Suitmedia Test
+Sebuah proyek Flutter yang dikembangkan sebagai bagian dari proses seleksi di Suitmedia. Aplikasi ini terdiri dari tiga layar utama:
 
-A new Flutter project.
+Input Screen – Pengguna dapat memasukkan nama dan sebuah kalimat untuk dicek apakah merupakan palindrome.
 
-## Getting Started
+Second Screen – Menampilkan nama pengguna yang telah diinput sebelumnya, serta tombol navigasi untuk memilih user.
 
-This project is a starting point for a Flutter application.
+Third Screen – Menampilkan daftar user dari API https://reqres.in dengan fitur:
 
-A few resources to get you started if this is your first Flutter project:
+Pull to refresh
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pagination saat scroll
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔧 Teknologi yang Digunakan
+Flutter 
+
+Dart
+
+State Management: Provider 
+
+HTTP: untuk mengambil data dari API eksternal
+
+| First Screen | Second Screen | Third Screen |
+|--------------|----------------|---------------|
+| ![First](first_screen_result.png) | ![Second](second_screen_result.png) | ![Third](third_screen_result.png) |
