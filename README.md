@@ -14,6 +14,7 @@ Pagination saat scroll
 <br>
 
 🔧 Teknologi yang Digunakan
+
 Flutter 
 
 Dart
