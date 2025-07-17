@@ -11,6 +11,8 @@ Pull to refresh
 
 Pagination saat scroll
 
+
+
 🔧 Teknologi yang Digunakan
 Flutter 
 
